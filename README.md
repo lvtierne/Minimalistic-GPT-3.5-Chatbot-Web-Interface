@@ -51,11 +51,12 @@ API_KEY=your_openai_api_key_here
    node script.js
    ```
    
-3. Open your web browser and go to http://localhost:3000. [![Demo](https://img.shields.io/badge/View-Demo-blue)](http://your-demo-url.com)
-4. Type a question into the input field and press "Submit".
-5. The chatbot will process the question using GPT-3.5 and display the answer below.
+2. Open your web browser and go to http://localhost:3000. 
+3. Type a question into the input field and press "Submit".
+4. The chatbot will process the question using GPT-3.5 and display the answer below.
 
-## 📝 License
+## 📝 License [![License](https://img.shields.io/github/license/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface)](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/LICENSE)
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### How to Use
