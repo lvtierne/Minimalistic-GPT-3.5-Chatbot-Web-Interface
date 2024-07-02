@@ -29,6 +29,10 @@ Create a `.env` file in the root directory and add your API key:
 API_KEY=your_openai_api_key_here
 ```
 
+
+   ```rust
+   Frontend <-> Backend (Node.js/Express) <-> OpenAI API
+   ```
 ## 🛠️ Installation
 
 1. Clone the repository:
@@ -93,7 +97,8 @@ To use this project:
    - Open your web browser and go to http://localhost:3000.
    - Type a question into the input field and press "Submit".
    - The chatbot will process the question using GPT-3.5 and display the answer below.
-  
+  ![image](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/assets/136281319/0eee296d-1fb8-419d-bfb2-9f511238fc3b){:width="300px" height="200px"}
+
 6. Shutdown:
 - To stop the server, press Ctrl + C in your terminal.
 
