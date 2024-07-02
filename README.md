@@ -10,10 +10,12 @@ This project provides a minimalistic web interface to interact with OpenAI's GPT
 
 ## 💻 Technologies Used
 
-- **Node.js** - Backend server environment.
-- **Express.js** - Web framework for Node.js.
-- **HTML/CSS/JavaScript** - Frontend development.
-- **OpenAI API** - Integration for natural language processing.
+[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-14.x-green)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)](https://expressjs.com/)
+[![OpenAI API](https://img.shields.io/badge/OpenAI%20API-Integration-yellowgreen)](https://platform.openai.com/)
    ```rust
    Frontend <-> Backend (Node.js/Express) <-> OpenAI API
    ```
