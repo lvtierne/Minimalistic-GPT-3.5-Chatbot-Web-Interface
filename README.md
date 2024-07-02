@@ -10,12 +10,15 @@ This project provides a minimalistic web interface to interact with OpenAI's GPT
 
 ## 💻 Technologies Used
 
-[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-14.x-green)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)](https://expressjs.com/)
-[![OpenAI API](https://img.shields.io/badge/OpenAI%20API-Integration-yellowgreen)](https://platform.openai.com/)
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" height="28" style="border-radius: 7px;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" height="28" style="border-radius: 7px;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript ES6" height="28" style="border-radius: 7px;"></a>
+    <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Node.js-14.x-green?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js" height="28" style="border-radius: 7px;"></a>
+    <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Express.js-4.x-lightgrey?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js" height="28" style="border-radius: 7px;"></a>
+    <a href="https://platform.openai.com/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/OpenAI%20API-Integration-yellowgreen?style=for-the-badge" alt="OpenAI API" height="28" style="border-radius: 7px;"></a>
+</div>
+
    ```rust
    Frontend <-> Backend (Node.js/Express) <-> OpenAI API
    ```
