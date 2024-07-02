@@ -32,23 +32,28 @@ API_KEY=your_openai_api_key_here
 ## 🛠️ Installation
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface.git
    cd your-repo
    ```
-2. Install dependencies:
+   
+3. Install dependencies:
+
    ```bash
    npm install
    ```
    
 ## 🚀 Usage
 1. Start the server:
+
    ```bash
    node script.js
    ```
-2. Open your web browser and go to http://localhost:3000.
-3. Type a question into the input field and press "Submit".
-4. The chatbot will process the question using GPT-3.5 and display the answer below.
+   
+3. Open your web browser and go to http://localhost:3000. [![Demo](https://img.shields.io/badge/View-Demo-blue)](http://your-demo-url.com)
+4. Type a question into the input field and press "Submit".
+5. The chatbot will process the question using GPT-3.5 and display the answer below.
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -57,32 +62,75 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 To use this project:
 1. **Clone the Repository:**
+   
    ```bash
-   git clone [https://github.com/lvtierne/minimalistic GPT-3.5 Chatbot Web Interface](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface
+   git clone https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface.git
    .git
    cd your-repo
    ```
-2. Install Dependencies:
+   
+3. Install Dependencies:
+   
    ```bash
    npm install
    ```
-3. Set Up Environment Variables:
-- Create a .env file in the root directory and add your OpenAI API key:
+   
+5. Set Up Environment Variables:
+   - Create a .env file in the root directory and add your OpenAI API key:
+  
    ```makefile
    API_KEY=your_openai_api_key_here
    ```
+   
 4. Start the Server:
+   
    ```bash
    node script.js
    ```
+   
 5. Interact with the Chatbot:
-- Open your web browser and go to http://localhost:3000.
-- Type a question into the input field and press "Submit".
-- The chatbot will process the question using GPT-3.5 and display the answer below.
+   - Open your web browser and go to http://localhost:3000.
+   - Type a question into the input field and press "Submit".
+   - The chatbot will process the question using GPT-3.5 and display the answer below.
+  
 6. Shutdown:
 - To stop the server, press Ctrl + C in your terminal.
-This README.md provides a clear summary of your project, outlines the installation process, and gives users step-by-step instructions on how to use your minimalistic GPT-3.5 chatbot web interface. Adjust the URLs and specifics based on your actual repository and project details.
 
+## 📂 Git Repository Setup
+To manage this project with Git:
+
+1. Initialize Git Repository:
+   
+   ```bash
+   git init
+   ```
+
+2. Create .gitignore:
+   - Create a .gitignore file in the root directory:
+   
+   ```bash
+   node_modules/
+   .env
+   ```
+   
+3. Add and Commit Files:
+   
+   ```bash
+   git add .
+   git commit -m "Initial commit: Add minimalistic GPT-3.5 chatbot web interface"
+   ```
+   
+4. Connect to a Remote Repository (Optional):
+   - If you have a remote Git repository (e.g., GitHub), connect your local repository to it:
+
+   ```bash
+   git remote add origin https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface.git
+   git push -u origin master
+   ```
+
+   - Replace origin with your remote repository name and master with your branch name.
+
+This README.md provides a comprehensive guide for installing, using, and setting up your minimalistic GPT-3.5 chatbot web interface project with Git version control. Adjust the URLs and specifics based on your actual repository and project details.
 
 
 
