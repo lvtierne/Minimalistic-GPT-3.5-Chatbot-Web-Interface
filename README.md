@@ -43,7 +43,7 @@ API_KEY=your_openai_api_key_here
    
    ```bash
    git clone https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface.git
-   cd your-repo
+   cd Minimalistic-GPT-3.5-Chatbot-Web-Interface
    ```
    
 2. Install dependencies:
@@ -75,7 +75,7 @@ To use this project:
    ```bash
    git clone https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface.git
    .git
-   cd your-repo
+   cd Minimalistic-GPT-3.5-Chatbot-Web-Interface
    ```
    
 2. Install Dependencies:
