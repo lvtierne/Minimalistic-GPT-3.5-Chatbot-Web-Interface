@@ -14,6 +14,9 @@ This project provides a minimalistic web interface to interact with OpenAI's GPT
 - **Express.js** - Web framework for Node.js.
 - **HTML/CSS/JavaScript** - Frontend development.
 - **OpenAI API** - Integration for natural language processing.
+   ```rust
+   Frontend <-> Backend (Node.js/Express) <-> OpenAI API
+   ```
 
 ## 🔧 Prerequisites
 
@@ -29,10 +32,6 @@ Create a `.env` file in the root directory and add your API key:
 API_KEY=your_openai_api_key_here
 ```
 
-
-   ```rust
-   Frontend <-> Backend (Node.js/Express) <-> OpenAI API
-   ```
 ## 🛠️ Installation
 
 1. Clone the repository:
