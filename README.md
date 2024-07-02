@@ -42,7 +42,7 @@ API_KEY=your_openai_api_key_here
    cd your-repo
    ```
    
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
    npm install
@@ -74,13 +74,13 @@ To use this project:
    cd your-repo
    ```
    
-3. Install Dependencies:
+2. Install Dependencies:
    
    ```bash
    npm install
    ```
    
-5. Set Up Environment Variables:
+3. Set Up Environment Variables:
    - Create a .env file in the root directory and add your OpenAI API key:
   
    ```makefile
@@ -97,7 +97,12 @@ To use this project:
    - Open your web browser and go to http://localhost:3000.
    - Type a question into the input field and press "Submit".
    - The chatbot will process the question using GPT-3.5 and display the answer below.
-  ![image](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/assets/136281319/0eee296d-1fb8-419d-bfb2-9f511238fc3b){:width="300px" height="200px"}
+     
+<p align="center">
+  <kbd>
+    <img src="https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/assets/136281319/0eee296d-1fb8-419d-bfb2-9f511238fc3b" alt="Screenshot" width="500" height="400">
+  </kbd>
+</p>
 
 6. Shutdown:
 - To stop the server, press Ctrl + C in your terminal.
