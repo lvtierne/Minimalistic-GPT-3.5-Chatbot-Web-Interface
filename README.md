@@ -100,7 +100,7 @@ To use this project:
      
 <p align="center">
   <kbd>
-    <img src="https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/assets/136281319/0eee296d-1fb8-419d-bfb2-9f511238fc3b" alt="Screenshot" width="500" height="400">
+    <img src="https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/assets/136281319/0eee296d-1fb8-419d-bfb2-9f511238fc3b" alt="Screenshot" width="650" height="500">
   </kbd>
 </p>
 
