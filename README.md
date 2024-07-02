@@ -55,7 +55,7 @@ API_KEY=your_openai_api_key_here
 3. Type a question into the input field and press "Submit".
 4. The chatbot will process the question using GPT-3.5 and display the answer below.
 
-## 📝 License [![License](https://img.shields.io/github/license/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/blob/main/LICENSE)](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/blob/main/LICENSE)
+## 📝 License [![License](https://img.shields.io/github/license/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface)](https://github.com/lvtierne/Minimalistic-GPT-3.5-Chatbot-Web-Interface/blob/main/LICENSE)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
